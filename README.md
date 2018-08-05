@@ -2,9 +2,10 @@
 This is a repository for my individual project. The project is centered on how to make and edit a website and also uploading the website to github pages. 
 By Brian Maera.
 The site can be accessed on github pages through its URL, https://tomshelby4.github.io/Friday-Project/
+
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2018] [Friday-Project]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
