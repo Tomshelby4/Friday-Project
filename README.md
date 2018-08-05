@@ -1,5 +1,5 @@
 # Friday-Project
-This is  repository for my individual project. The project is centered on how to make and edit a website and also uploading the website to github pages. 
+This is a repository for my individual project. The project is centered on how to make and edit a website and also uploading the website to github pages. 
 By Brian Maera.
 The site can be accessed on github pages through its URL, https://tomshelby4.github.io/Friday-Project/
 MIT License
