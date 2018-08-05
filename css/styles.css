@@ -12,3 +12,6 @@ text-decoration: underline;
 }
 p { font-family: sans-serif;
 }
+img {
+  float: right;
+}
